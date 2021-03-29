@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\bin\Debug\Clase 6 ejercicio progra.exe.config
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\bin\Debug\Clase 6 ejercicio progra.exe
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\bin\Debug\Clase 6 ejercicio progra.pdb
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Clase 6 ejercicio progra.csprojAssemblyReference.cache
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Clase_6_ejercicio_progra.Form1.resources
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Clase_6_ejercicio_progra.Properties.Resources.resources
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Clase 6 ejercicio progra.csproj.GenerateResource.cache
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Clase 6 ejercicio progra.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Clase 6 ejercicio progra.exe
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Clase 6 ejercicio progra.pdb
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Interop.WMPLib.dll
+C:\Users\USUARIO\Pictures\Clase 6 ejercicio progra\Clase 6 ejercicio progra\obj\Debug\Clase 6 ejercicio progra.csproj.ResolveComReference.cache
